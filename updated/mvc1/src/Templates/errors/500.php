@@ -1,0 +1,1 @@
+<h2 style="color:#a20000;">Error 500:<?= $error?></h2>
